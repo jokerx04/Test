@@ -1,2 +1,2 @@
-# KNMS(Kids Note Management System)
+# KNMS(키즈노트 관리 시스템)
 <br /><br />
